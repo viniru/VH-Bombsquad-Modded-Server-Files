@@ -1,7 +1,7 @@
-*.log
-*.tmp
-__pycache__
-_pycache_
+dist/ba_root/mods/stats/stats202*
 *.pyc
-*.pyo
-__pycache__/
+dist/ba_root/_appstate_dump_md
+dist/ba_root/_appstate_dump_tb
+nohup.out
+dist/ba_root/.bsac2
+

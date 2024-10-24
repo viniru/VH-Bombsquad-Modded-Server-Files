@@ -1,0 +1,7 @@
+*.log
+*.tmp
+__pycache__
+_pycache_
+*.pyc
+*.pyo
+__pycache__/

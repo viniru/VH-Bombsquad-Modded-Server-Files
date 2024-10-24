@@ -152,7 +152,7 @@ class textonmap:
        )   
         node = _ba.newnode('text',
                             attrs={
-                                'text':u'\ue043[\U0001F451] OWNER : VORTEX & HONOR\n\ue048[\U0001F6E0] MANAGED BY : TEAM VORTEX',
+                                'text':u'\ue043[\U0001F451] OWNER : aRMDiE\n\ue048[\U0001F6E0] MANAGED BY : aRmDiE AnD ZiVa',
                                 'flatness': 1.0,
                                 'h_align': 'left',
                                 'v_attach':'bottom',
@@ -302,7 +302,7 @@ class textonmap:
         )            
         node = _ba.newnode('text',
                             attrs={
-                                'text':u'\ue048| VH PARADISE |\ue048',
+                                'text':u'\ue048| ArmDie |\ue048',
                                 'flatness':1.0,
                                 'h_align':'center',
                                 'v_attach':'top',

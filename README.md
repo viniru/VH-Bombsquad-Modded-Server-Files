@@ -19,15 +19,15 @@ Requirements
 | Python | 3.10.12 |
 | Ubuntu | 22.04 |
 
-![](https://img.shields.io/github/forks/hypervortex/VH-Bombsquad-Modded-Server-Files?color=green&style=for-the-badge)
-![](https://img.shields.io/github/stars/hypervortex/VH-Bombsquad-Modded-Server-Files?color=green&style=for-the-badge)
-![](https://img.shields.io/github/license/hypervortex/VH-Bombsquad-Modded-Server-Files?color=green&style=for-the-badge)
+![](https://img.shields.io/github/forks/viniru/VH-Bombsquad-Modded-Server-Files?color=green&style=for-the-badge)
+![](https://img.shields.io/github/stars/viniru/VH-Bombsquad-Modded-Server-Files?color=green&style=for-the-badge)
+![](https://img.shields.io/github/license/viniru/VH-Bombsquad-Modded-Server-Files?color=green&style=for-the-badge)
 
 ## Download server files.
 
 Download files on terminal -
 ```
-git clone https://github.com/hypervortex/VH-Bombsquad-Modded-Server-Files &&
+git clone https://github.com/viniru/VH-Bombsquad-Modded-Server-Files &&
 cd VH-Bombsquad-Modded-Server-Files &&
 sudo chown -R ubuntu:ubuntu /home/ubuntu/VH-Bombsquad-Modded-Server-Files
 ```
